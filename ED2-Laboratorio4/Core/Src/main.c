@@ -12,6 +12,14 @@
   * This software is licensed under terms that can be found in the LICENSE file
   * in the root directory of this software component.
   * If no LICENSE file comes with this software, it is provided AS-IS.
+  *******************************************************************************
+  * Universidad del Valle de Guatemala
+  * IE3054: Electrónica Digital 2
+  * Laboratorio 4
+  * Autor: Alma Lisbeth Mata Ixcayau
+  * Proyecto: Laboratorio 4 - Juego de carreras 2.0
+  * Descripcion: Juego de carreras con LEDs y contador display 7 segmentos
+  * Creado: 03/03/2026
   *
   ******************************************************************************
   */
